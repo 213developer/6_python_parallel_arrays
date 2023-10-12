@@ -2,7 +2,7 @@
 # Input:  Interactive
 # Output:  Name and price of coffee orders or error message if add-in is not found
 
-# Declare variables.
+# Declare variables here.
 NUM_ITEMS = 5 # Named constant
 
 # Initialized list of add-ins
